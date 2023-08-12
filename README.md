@@ -8,4 +8,4 @@ This project was selected in my school to be shown at the district level(R-ward 
 
 ## Credits:
 
-_This project was made by [me](https://chiragkotian.github.io), Anoop and Aditya.D with help from Shivam, Prajawal, Aditya.R and Devang._
+_This project was made by [me](https://chiragkotian.github.io), Anoop and Aditya.D with help from Shivam, Prajwal, Aditya.R and Devang._
